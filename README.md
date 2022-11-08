@@ -49,20 +49,20 @@
 <br>  
 
 
-### 📌 내 캘린더 (카테고리)
+## :pushpin: 내 캘린더 (카테고리)
 ![내 캘린더](https://user-images.githubusercontent.com/102542087/200232434-8ac60f9b-99da-4649-95a8-f1906fdb7bab.gif) <br>
 - 구현 기능 설명
     - 내 캘린더 추가/수정/삭제
     - 내 캘린더 색상 변경
     
-### 📌 관심 캘린더
+## :pushpin: 관심 캘린더
 ![관심 캘린더](https://user-images.githubusercontent.com/102542087/200235646-0c9afd69-535d-42ab-8c44-0aa5fdb44b3e.gif) <br>
 - 구현 기능 설명
     - 관심 캘린더 추가/삭제 (타 사원 일정 조회 기능)
     - 전사 일정 조회 (일정 등록시 전사 일정으로 등록된 일정 조회)
     - 참석자 일정 조회 (로그인한 회원이 참석자로 포함된 일정 조회)
     
-### 📌 캘린더 일정 등록
+## :pushpin: 캘린더 일정 등록
 ![일정 등록](https://user-images.githubusercontent.com/102542087/200237226-0bdced4e-96c8-4127-8553-a0e4e2f59dec.gif) <br>
 - 구현 기능 설명
     - 비공개/전사일정 조건 체크
