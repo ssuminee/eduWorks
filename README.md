@@ -47,7 +47,7 @@
   - 출퇴근 기록
   - 전사 공지 / 받은 메일함 / 달력 / 부서 게시판 / 전사 주소록 / 추천, 핫게시판 조회 
   
-<details><summary><h3>1. 구수민</h3></summary>
+<details><h3>1. 구수민</h3></summary>
 
 ### 📌 내 캘린더 (카테고리)
 ![내 캘린더](https://user-images.githubusercontent.com/102542087/200232434-8ac60f9b-99da-4649-95a8-f1906fdb7bab.gif) <br>
