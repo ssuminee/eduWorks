@@ -41,6 +41,20 @@
 ***
 # :star: 구현 기능
 
+
+## 💻 홍보물 게시판 MVC 코드 페이지 이동
+- [Model]()
+- [View]()
+- [Controller]()
+- [Mapper]()
+
+## 💻 학생 상담 MVC 코드 페이지 이동
+- [Model]()
+- [View]()
+- [Controller]()
+- [Mapper]()
+
+
 ## :pushpin: 메인페이지
 ![메인페이지](https://user-images.githubusercontent.com/103404357/194943634-4debdc7d-e155-4e81-b354-7260ff92791c.gif) <br>
 - 구현 기능 설명
@@ -48,6 +62,12 @@
   - 전사 공지 / 받은 메일함 / 달력 / 부서 게시판 / 전사 주소록 / 추천, 핫게시판 조회 
 <br>  
 
+
+## 💻 캘린더 MVC 코드 페이지 이동
+- [Model]()
+- [View]()
+- [Controller]()
+- [Mapper]()
 
 ## :pushpin: 내 캘린더 (카테고리)
 ![내 캘린더](https://user-images.githubusercontent.com/102542087/200232434-8ac60f9b-99da-4649-95a8-f1906fdb7bab.gif) <br>
