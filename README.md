@@ -42,19 +42,6 @@
 # :star: 구현 기능
 
 
-## 💻 홍보물 게시판 MVC 코드 페이지 이동
-- [Model]()
-- [View]()
-- [Controller]()
-- [Mapper]()
-
-## 💻 학생 상담 MVC 코드 페이지 이동
-- [Model]()
-- [View]()
-- [Controller]()
-- [Mapper]()
-
-
 ## :pushpin: 메인페이지
 ![메인페이지](https://user-images.githubusercontent.com/103404357/194943634-4debdc7d-e155-4e81-b354-7260ff92791c.gif) <br>
 - 구현 기능 설명
@@ -64,10 +51,10 @@
 
 
 ## 💻 캘린더 MVC 코드 페이지 이동
-- [Model]()
-- [View]()
-- [Controller]()
-- [Mapper]()
+- [Model](https://github.com/ssuminee/eduWorks/tree/main/src/main/java/com/finalProject/eduWorks/schedule/model)
+- [View](https://github.com/ssuminee/eduWorks/tree/main/src/main/webapp/WEB-INF/views/schedule)
+- [Controller](https://github.com/ssuminee/eduWorks/blob/main/src/main/java/com/finalProject/eduWorks/schedule/controller/ScheduleController.java)
+- [Mapper](https://github.com/ssuminee/eduWorks/blob/main/src/main/resources/mappers/schedule-mapper.xml)
 
 ## :pushpin: 내 캘린더 (카테고리)
 ![내 캘린더](https://user-images.githubusercontent.com/102542087/200232434-8ac60f9b-99da-4649-95a8-f1906fdb7bab.gif) <br>
@@ -97,6 +84,14 @@
     - 일정을 등록한 사원만 일정 수정/삭제 가능
     - 일정을 조회할 수 있는 사원끼리 댓글/대댓글 작성/수정/삭제 가능
 
+
+## 💻 홍보물 게시판 MVC 코드 페이지 이동
+- [Model](https://github.com/ssuminee/eduWorks/tree/main/src/main/java/com/finalProject/eduWorks/promotion/model)
+- [View](https://github.com/ssuminee/eduWorks/tree/main/src/main/webapp/WEB-INF/views/promotion)
+- [Controller](https://github.com/ssuminee/eduWorks/blob/main/src/main/java/com/finalProject/eduWorks/promotion/controller/PromotionController.java)
+- [Mapper](https://github.com/ssuminee/eduWorks/blob/main/src/main/resources/mappers/promotion-mapper.xml)
+
+
 ## :pushpin: 홍보물 게시글 목록 조회
 ![홍보물 목록](https://user-images.githubusercontent.com/102542087/200492941-a2013d15-586d-45c7-a663-35284b0b2b01.gif) <br>
 - 구현 기능 설명
@@ -110,6 +105,14 @@
 - 구현 기능 설명
     - 첨부파일 드래그/선택으로 등록 가능
     - 게시글 별 댓글/대댓글 등록/수정/가능
+
+
+## 💻 학생 상담 MVC 코드 페이지 이동
+- [Model](https://github.com/ssuminee/eduWorks/tree/main/src/main/java/com/finalProject/eduWorks/cnsln/model)
+- [View](https://github.com/ssuminee/eduWorks/tree/main/src/main/webapp/WEB-INF/views/cnsln)
+- [Controller](https://github.com/ssuminee/eduWorks/blob/main/src/main/java/com/finalProject/eduWorks/cnsln/controller/CnslnController.java)
+- [Mapper](https://github.com/ssuminee/eduWorks/blob/main/src/main/resources/mappers/cnsln-mapper.xml)
+
     
 ## :pushpin: 상담 일정 예약 등록/조회/수정/삭제
 ![상담 일정](https://user-images.githubusercontent.com/102542087/200501454-b55ad877-9b66-4c67-bad3-5a4c5d106981.gif) <br>
